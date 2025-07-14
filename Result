@@ -1,0 +1,85 @@
+# output of the Contact Book Application.
+
+--- Personal Contact Book ---
+1. Add a new contact
+2. View all contacts
+3. Search for a contact
+4. Delete a contact
+5. Exit
+Enter your choice: 2
+
+--- All Contacts ---
+No contacts found.
+
+--- Personal Contact Book ---
+1. Add a new contact
+2. View all contacts
+3. Search for a contact
+4. Delete a contact
+5. Exit
+Enter your choice: 1
+Enter name: uday
+Enter phone number: 7997237048
+Enter email: uday@gmail.com
+Contact added successfully!
+
+--- Personal Contact Book ---
+1. Add a new contact
+2. View all contacts
+3. Search for a contact
+4. Delete a contact
+5. Exit
+Enter your choice: 1
+Enter name: ram
+Enter phone number: 7412589632
+Enter email: ram@outlook.com
+Contact added successfully!
+
+--- Personal Contact Book ---
+1. Add a new contact
+2. View all contacts
+3. Search for a contact
+4. Delete a contact
+5. Exit
+Enter your choice: 1
+Enter name: sundar
+Enter phone number: 9638521475
+Enter email: sundar@gmail.com
+Contact added successfully!
+
+--- Personal Contact Book ---
+1. Add a new contact
+2. View all contacts
+3. Search for a contact
+4. Delete a contact
+5. Exit
+Enter your choice: 1
+Enter name: tim
+Enter phone number: 8521479632
+Enter email: tim@yahoo.com
+Contact added successfully!
+
+--- Personal Contact Book ---
+1. Add a new contact
+2. View all contacts
+3. Search for a contact
+4. Delete a contact
+5. Exit
+Enter your choice: 2
+
+--- All Contacts ---
+Name: uday, Phone: 7997237048, Email: uday@gmail.com
+Name: ram, Phone: 7412589632, Email: ram@outlook.com
+Name: sundar, Phone: 9638521475, Email: sundar@gmail.com
+Name: tim, Phone: 8521479632, Email: tim@yahoo.com
+
+--- Personal Contact Book ---
+1. Add a new contact
+2. View all contacts
+3. Search for a contact
+4. Delete a contact
+5. Exit
+Enter your choice: 5
+Exiting application. Goodbye!
+
+# Every Contact is stored in the Contact File.
